@@ -19,7 +19,7 @@ if sys.version_info < (3, 0):
     test_requirements += ['mock']
 
 setup(
-    name='paho-mqtt',
+    name='python3-paho-mqtt',
     version=__version__,
     description='MQTT version 3.1.1 client class',
     long_description=readme,
